@@ -16,6 +16,6 @@ This is a Power BI dashboard I built to analyze 4 years of sales data from a Sup
 - Power BI Desktop
 - Excel for the raw data
 
-![Dashboard](Data-screenshot.png)
+![Dashboard](Data-Screenshot.png)
 
 I made this to practice Power BI and data storytelling. Feel free to check the screenshot above!
